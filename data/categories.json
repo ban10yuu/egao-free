@@ -1,0 +1,302 @@
+[
+  {
+    "name": "職業",
+    "scraped_count": 40,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "こども",
+    "scraped_count": 40,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "ポーズ",
+    "scraped_count": 22,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "会社",
+    "scraped_count": 13,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "ビジネス",
+    "scraped_count": 15,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "学校",
+    "scraped_count": 14,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "医療",
+    "scraped_count": 11,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "ファッション",
+    "scraped_count": 11,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "家族",
+    "scraped_count": 13,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "スポーツ",
+    "scraped_count": 6,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "表情",
+    "scraped_count": 8,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "老人",
+    "scraped_count": 11,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "若者",
+    "scraped_count": 10,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "あかちゃん",
+    "scraped_count": 13,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "生活",
+    "scraped_count": 3,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "友達",
+    "scraped_count": 14,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "恋愛",
+    "scraped_count": 11,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "食べ物",
+    "scraped_count": 17,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "動物",
+    "scraped_count": 16,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "建物",
+    "scraped_count": 15,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "病気",
+    "scraped_count": 34,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "お金",
+    "scraped_count": 28,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "料理",
+    "scraped_count": 30,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "趣味",
+    "scraped_count": 18,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "乗り物",
+    "scraped_count": 23,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "道具",
+    "scraped_count": 25,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "スイーツ",
+    "scraped_count": 28,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "旅行",
+    "scraped_count": 25,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "家電",
+    "scraped_count": 25,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "音楽",
+    "scraped_count": 15,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "飲み物",
+    "scraped_count": 24,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "花",
+    "scraped_count": 18,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "猫",
+    "scraped_count": 26,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "犬",
+    "scraped_count": 23,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "魚",
+    "scraped_count": 24,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "野菜",
+    "scraped_count": 22,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "夏",
+    "scraped_count": 20,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "冬",
+    "scraped_count": 20,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "災害",
+    "scraped_count": 15,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "科学",
+    "scraped_count": 20,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "インターネット",
+    "scraped_count": 23,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "コンピューター",
+    "scraped_count": 17,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "受験",
+    "scraped_count": 12,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "お正月",
+    "scraped_count": 34,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "ペット",
+    "scraped_count": 11,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "家具",
+    "scraped_count": 21,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "フルーツ",
+    "scraped_count": 18,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "運動",
+    "scraped_count": 11,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "鳥",
+    "scraped_count": 23,
+    "total_count": "不明",
+    "has_more_pages": true
+  },
+  {
+    "name": "海",
+    "scraped_count": 15,
+    "total_count": "不明",
+    "has_more_pages": true
+  }
+]

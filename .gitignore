@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python scripts (not needed for deployment)
+*.py
+api_cost_estimate.md
